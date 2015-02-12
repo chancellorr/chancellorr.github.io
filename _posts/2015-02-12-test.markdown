@@ -6,13 +6,13 @@ author:     Chance Monnette
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>This is me testing out the posting thingy
+<p>
 
-    <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
- <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
- <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
- <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
- <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+    <img src="{{ site.baseurl }}/worden/worden_wedding_0013.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0032.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0069.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0227.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0438.jpg" alt="">
+<span class="caption text-muted"></span>
 
 </p>
