@@ -8,7 +8,7 @@ header-img: "img/post-bg-01.jpg"
 
 <p>
 
-    <img src="{{ site.baseurl }}/worden/worden_wedding_0013.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0013.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_0032.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_0069.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_0227.jpg" alt="">
