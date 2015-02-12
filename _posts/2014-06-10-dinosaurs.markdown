@@ -8,6 +8,7 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 
-
+<p>
 
     <img src="{{ site.baseurl }}/worden/worden_wedding_0013.jpg" alt="Post Sample Image">
+</p>
