@@ -3,12 +3,12 @@ layout:     post
 title:      Michelle Senior Photos
 date:       2015-02-12 17:55:00
 author:     Chance Monnette
-header-img: "img/post-bg-02.JPG"
+header-img: "img/post-bg-02.jpg”
 ---
 
 <p>
 
- <img src="{{ site.baseurl }}/michelle/1.JPG” alt="">
+<img src="{{ site.baseurl }}/michelle/1.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/2.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/3.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/4.JPG" alt="">
