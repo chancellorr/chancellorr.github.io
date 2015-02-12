@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      Worden Wedding
+date:       2014-05-07 12:00:00
+author:     Chance Monnette
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>
+
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0013.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0032.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0069.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0227.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0438.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0516.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0563.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0587.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_0615_0622_merge.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1038-2.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1076.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1272-2.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1346.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1423.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1635.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1797.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1936.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_2037.jpg" alt="">
+
+<span class="caption text-muted"></span>
+
+</p>
