@@ -1,12 +1,12 @@
 # Site settings
 title: Chance Monnette Photography
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: cmonnette.photo@gmail.com
+description: "Freelance Photographer from the Detroit Area"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
+twitter_username: chancellorr
+github_username:  chancellorr
 facebook_username:  IronSummitMedia
 
 # Build settings
