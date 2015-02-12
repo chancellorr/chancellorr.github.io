@@ -7,9 +7,12 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 <p>This is me testing out the posting thingy
-<a href="{{ site.baseurl }}/worden/warden_wedding_2034.jpg">
-    <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="Post Sample Image">
-</a>
+
+    <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 </p>
