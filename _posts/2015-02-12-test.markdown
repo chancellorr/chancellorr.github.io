@@ -2,13 +2,13 @@
 layout:     post
 title:      Worden Wedding
 date:       2014-05-07 12:00:00
-author:     “Chance Monnette“
+author:     Chance Monnette
 header-img: "img/post-bg-01.jpg"
 ---
 
 <p>This is me testing out the posting thingy
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/worden/warden_wedding_2034.jpg" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
