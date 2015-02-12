@@ -3,7 +3,7 @@ layout:     post
 title:      Michelle Senior Photos
 date:       2015-02-12 17:55:00
 author:     Chance Monnette
-header-img: img/post-bg-02.jpg
+header-img: “img/post-bg-02.jpg”
 ---
 
 <p>
