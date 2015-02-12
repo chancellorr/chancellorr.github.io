@@ -17,7 +17,7 @@ header-img: "img/post-bg-01.jpg"
  <img src="{{ site.baseurl }}/worden/worden_wedding_0563.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_0587.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_0615_0622_merge.jpg" alt="">
- <img src="{{ site.baseurl }}/worden/wworden_wedding_1038-2.jpg" alt="">
+ <img src="{{ site.baseurl }}/worden/worden_wedding_1038-2.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_1076.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_1272-2.jpg" alt="">
  <img src="{{ site.baseurl }}/worden/worden_wedding_1346.jpg" alt="">
