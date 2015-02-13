@@ -207,7 +207,7 @@ hr.small {
 }
 .post-preview {
     
-    
+    {% if page.header-img %}
       background-image: url('{{ page.header-img }}');
 }
 
