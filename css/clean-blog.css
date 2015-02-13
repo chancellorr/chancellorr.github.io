@@ -206,7 +206,7 @@ hr.small {
   }
 }
 .post-preview {
-      background-image: url("/img/post-bg-02.jpg");
+      background-image: url("post.header-img");
 }
 
 .post-preview > a {
