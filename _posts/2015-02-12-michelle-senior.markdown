@@ -8,7 +8,7 @@ header-img: "img/post-bg-02.jpg"
 
 <p>
 
-<img src="{{ site.baseurl }}/michelle/1.JPG" alt="">
+<img src="/michelle/1.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/2.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/3.JPG" alt="">
 <img src="{{ site.baseurl }}/michelle/4.JPG" alt="">
