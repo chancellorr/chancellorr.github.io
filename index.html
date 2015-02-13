@@ -4,8 +4,7 @@ description: "Freelance Photograper from the Detroit Area"
 ---
 
 {% for post in paginator.posts %}
-{% if page.header-img %}
-    
+
 <div class="post-preview" style="background-image: url ('{{page.header-img}}')">
     
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -15,7 +14,7 @@ description: "Freelance Photograper from the Detroit Area"
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
-        {% endif %}
+        
         {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
