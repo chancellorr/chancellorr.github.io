@@ -7,7 +7,7 @@ description: "Freelance Photograper from the Detroit Area"
 {% if page.header-img %}
     
 <div class="post-preview" style="background-image: url ('{{page.header-img}}')">
-    {% endif %}
+    
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{% if page.header-img %}}{{ page.header-img }} {{post.title }}
         </h2>
@@ -15,6 +15,7 @@ description: "Freelance Photograper from the Detroit Area"
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
+        {% endif %}
         {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
