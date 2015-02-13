@@ -205,9 +205,13 @@ hr.small {
     font-size: 30px;
   }
 }
+.post-preview {
+      background-image: url("/img/post-bg-02.jpg");
+}
+
 .post-preview > a {
   color: #404040;
-  background-image: url("/img/post-bg-02.jpg");
+
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
