@@ -5,7 +5,7 @@ description: "Freelance Photograper from the Detroit Area"
 
 {% for post in paginator.posts %}
 
-<div class="post-preview" style="background-image: url('{{ post.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<div class="post-preview" style="background-image: url('{{ page.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">             {{post.title }}
