@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: equanimity
 ---
 
 This is Equanimity; a series of focus centered playlists that I've created.
