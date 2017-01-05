@@ -5,9 +5,9 @@ layout: equanimity
 This is Equanimity; a series of focus centered playlists that I've created.
 I made these playlist with one purpose, to help me focus. Each playlist is roughly the length of a single work day. I hope you get enjoyment out of these.
 
-#e·qua·nim·i·ty#
+# e·qua·nim·i·ty #
 
-##ˌekwəˈnimədē/##  
+## ˌekwəˈnimədē/ ##  
 
 noun mental calmness, composure, and evenness of temper, especially in a difficult situation.
 
