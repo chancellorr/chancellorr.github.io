@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sleep
+title: Betterment
 ---
 
-Lately I haven't been sleeping. It seems like no matter what I do I can never fall asleep at a normal time. I'll just lay in bed for hours and never fall asleep. I feel like I have tried everything and nothing works. It's getting to the point where I get so mad at night because I can't fall asleep. Even now it's 6am and I haven't slept. I don't even feel like trying at this point because I'll just lay in bed, tossing and turning for hours before I might fall asleep for a little bit, only to wake up still feeling exhausted. I really don't know how to fix this. My mind just races and races and races. That's a major reason for me having this blog. To get my thoughts out somewhere and hopefully out of my head for a while. Maybe get them out long enough to get some rest. I just want to be okay. I just want things to be normal. I want to fix my relationships. I want to fix myself. I want things to be the way they were before. It's not easy, and not sleeping surely isn't going to get me anywhere. 
+So lately I've been trying to find ways to better myself. Ways to become a better person, ways to become a better husband, ways to become a healthier person. I want to change a lot about myself. Sadly I haven't been able to do much so far. I have serious manic depression. Not too many people know this about me but I figured I'd get it out there. It makes it really hard for me to leave the house, or interact with people face to face. Along with that I also have really bad anxiety most of the time which makes it almost impossible for me to sleep at night. I spend a lot of time in front of my computer screen not really doing anything productive. I play a lot of video games and watch a lot of YouTube videos. But it's time for something more. It's time to get out of the house. It's time to start being productive. It's time to start eating better.
 
-I've been trying to cut out screen time before bed but that hasn't really been happening. I know that's on me but I just find myself watching videos on YouTube or playing games until late at night. I have been trynig to cut out blue light at night though. You know, that blue glow from computer screens or smart phones that is bad for sleep. I use apps that cut that down to make it easier on my eyes and doesn't stop my brain from producing meletonin, but I feel like my brain doesn't really make that at all. It's just really frustrating. I want sleep. I want to be rested. I want to be okay.
-
-Hopefully one day.
+My main focus right now it so become more educated in computer languages. I know the basics but that's where it ends. I need to keep my mind fresh. I need to actually take the time to work on projects. I need to do something, because sitting at home has grown really boring. My goal for the next few months is to learn at least one programming language to where I'm confident in my work. To where I feel I actually know why I'm doing what I'm doing and not just being happy that it works. I know I can do this. I have to hold myself to that too though, not just say it. Well, here's to that. Here's to a better me.
 
 
 
-Currently listening:     Isostacy - **Helios**
+Currently listening:     Pillars - **Hushed**
