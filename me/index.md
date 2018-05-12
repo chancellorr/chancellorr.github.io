@@ -2,7 +2,6 @@
 layout: about
 ---
 
-Hello, my name is Chance. I am a photographer from Detroit Michigan who likes emo, video games, keyboards, and other nerdy things. I'm just trying to better myself day by day.
+#What is *sleepless.online*?
+sleepless.online is a blog that I created to have a place to express my thoughts. A place where I could try to clear my mind on those nights where I cannot sleep. My mind races a lot at night and sleepless.online is where those thoughts live so I can try to get them out of my head so I can sleep. This is mostly just the ramblings of a sleepless man. This is a safe place. This is *sleepless.online*.
 
-# What do you do?
-I take pictures of people and things, build keyboards, and play a lot of video games. I stream on [Twitch.tv](http://twitch.tv/trashcatt)
