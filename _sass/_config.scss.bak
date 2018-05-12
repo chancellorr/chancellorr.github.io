@@ -1,7 +1,7 @@
 // COLORS
-$color-black: #EEEEEE;
-$color-white: #272727;
-$color-grey: #CCCCCC;
+$color-black: #272727;
+$color-white: #FFFFFF;
+$color-grey: #EEEEEE;
 $color-link: #1A0DAB;
 $color-code: #00FF00;
 $color-hire-white: #FEFEFE;
