@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conditions
+title: conditions
 ---
 
 So I have insomnia, that's nothing new. But I'm really starting to realize just how much all my different mental conditions affect each other. My anxiety causes my insomnia. My insomnia helps to cause my depression. My depression goes hand-in-hand with my anxiety. It's basically an unending circle of unhappiness. Yes I'm medicated. Yes I'm trying to help myself feel better. Yes I'm taking steps to better myself. But my lack of sleep really eats away at my mental health. So many nights I lye awake in bed just wishing that I'll fall asleep soon, and before I know it, 4 hours have gone by and I'm still staring at the ceiling or clenching my jaw with my eyes closed tight. That's another thing I've noticed. When I'm trying to sleep I'll clench my jaw as tight as possible. I have no idea why I do it but I just recently started noticing it. I digress. Not sleeping is not helping me. It needs to change. Period. 
